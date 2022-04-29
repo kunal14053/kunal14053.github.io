@@ -26,6 +26,6 @@ More stuff coming soon.........
 
 
 ### Contact
-email@ kunal14053@iiitd.ac.in
+email@kunal14053@iiitd.ac.in
 
-Monile No. 99106768..
+Mobile No. 99106768..

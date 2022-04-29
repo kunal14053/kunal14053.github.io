@@ -11,13 +11,12 @@ Great interest in Data Science and strong research professional with a Bachelor'
 #datadrivesbusiness
 
 
-```markdown
 You can find this guy on various platforms
 [LinkedIn](linkedin.com/in/kunal-saini-a89b7ba8/)
 [Medium](medium.com/@kunal14053)
 [Twitter](twitter.com/ImkunalSaini)
 [Instagram](instagram.com/cookunal/)
-```
+
 
 More stuff coming soon.........
 

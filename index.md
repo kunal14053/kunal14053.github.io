@@ -12,7 +12,9 @@ Great interest in Data Science and strong research professional with a Bachelor'
 
 
 ```markdown
-You can find thiss guy on variour platforma
+You can find this guy on variour platforma
+<a href="https://www.google.com/" target="_blank">Google</a>
+
 [LinkedIn](https://www.linkedin.com/in/kunal-saini-a89b7ba8/)
 [Medium](https://medium.com/@kunal14053)
 [Twitter](https://twitter.com/ImkunalSaini)
@@ -24,4 +26,5 @@ More stuff coming soon.........
 
 ### Contact
 email@ kunal14053@iiitd.ac.in
+
 Monile No. 99106768..

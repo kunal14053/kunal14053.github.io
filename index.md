@@ -12,9 +12,7 @@ Great interest in Data Science and strong research professional with a Bachelor'
 
 
 ```markdown
-You can find this guy on variour platforma
-<a href="https://www.google.com/" target="_blank">Google</a>
-
+You can find this guy on various platforms
 [LinkedIn](https://www.linkedin.com/in/kunal-saini-a89b7ba8/)
 [Medium](https://medium.com/@kunal14053)
 [Twitter](https://twitter.com/ImkunalSaini)

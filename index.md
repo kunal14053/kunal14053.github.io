@@ -5,7 +5,7 @@
 SDE 2(Data + ML) at Uber || Ex-Expedia Group || IIITD
 Talks about #ml, #aws, #techblog, #systemdesign, and #machinelearning
 
-Experienced software developer with 3.5+ years of experience in the e-commerce domain. Interested to work on data-driven projects, involve Machine Learning supported via cutting edge technologies and frameworks and powered by AWS, prefer Java as the programming language. 
+Experienced software developer with 4.5+ years of experience in the e-commerce domain. Interested to work on data-driven projects, involve Machine Learning supported via cutting edge technologies and frameworks and powered by AWS, prefer Java as the programming language. 
 I'm a high-spirited guy who is highly adaptable, a flexible professional who embraces teamwork but also enjoys working independently and loves networking.
 Great interest in Data Science and strong research professional with a Bachelor's degree focused on Computer Science from IIITD. 
 #datadrivesbusiness
@@ -20,9 +20,6 @@ You can find this guy on various platforms
 [Twitter](https://twitter.com/ImkunalSaini)
 
 [Instagram](https://www.instagram.com/cookunal/)
-
-
-More stuff coming soon.........
 
 
 ### Contact
